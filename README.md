@@ -32,7 +32,7 @@
     docker-compose up --build -d
    ```
 
-**Build and start containers:**
+**Stop the Application:**
 
 ```bash
   docker-compose down
