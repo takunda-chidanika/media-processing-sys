@@ -12,7 +12,7 @@
 
 1. **Clone the repository:**
    ```bash
-       git clone https://github.com/your-repo/media-processing-sys.git
+       git clone https://github.com/takunda-chidanika/media-processing-sys.git
        cd media-processing-sys
    ```
 2. **Create environment file:**   Edit the .env file with your configuration.
